@@ -1,22 +1,43 @@
-## Olá! Eu sou o Leonardo Irineu.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ACD32&height=120&section=header"/>
 
-- 🔭 Hoje trabalho com front-end
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9ACD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Irineu;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+##
+
 
 <div align="center">
  <a href="https://github.com/LeonardoIrineu">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoIrineu&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIrineu&layout=compact&langs_count=7&theme=merko"/>
 </div>
+ 
+ ##
+ 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LeonardoIrineu&bg_color=000000&color=7dc039&line=80c913&point=232c11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ ## 
+ 
 <div style="display: inline_block"><br>
  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-  
-  ##
-  
+</div> 
+   
+ ##
+ 
 <div>
   <a href="https://wa.me/qr/VUN6GYOZASNXB1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
 </div>
+ 
+ ##
+ 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeonardoIrineu}/count.svg" /></p> 
+<br>
+</div>
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ACD32&height=120&section=footer"/>

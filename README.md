@@ -9,10 +9,15 @@
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIrineu&layout=compact&langs_count=7&theme=merko"/>
 </div>
  
- 
  ## 
  
-<div style="display: inline_block"><br>
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoIrineu&theme=merko&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+ 
+ ##
+ 
+<div style="display: inline_block" align="center"><br>
  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

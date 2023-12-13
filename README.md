@@ -6,7 +6,7 @@
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIrineu&layout=compact&langs_count=7&theme=merko"/>
 </div>
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeonardoIrineu&bg_color=000000&color=9ACD32&line=228B22&point=008000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoIrineu&theme=merko)](https://github.com/LeonardoIrineu/github-readme-activity-graph)
  
  ##
  
@@ -20,8 +20,7 @@
  ##
  
 <div>
-  <a href="https://wa.me/qr/VUN6GYOZASNXB1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
+  <a href="https://wa.me/qr/VUN6GYOZASNXB1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
  
  ##

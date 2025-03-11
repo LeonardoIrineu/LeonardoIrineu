@@ -2,9 +2,9 @@
     <h1>Olá, meu nome é Leonardo, tudo bem?  👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
     <p> 
-Olá a todos! Irei apresentar o profissional Leonardo I. Irineu para vocês. É uma honra tê-los em meu perfil, e espero que gostem do que estão lendo. Leonardo é um profissional dinâmico e dedicado, com 28 anos de idade e uma sólida formação em Administração. Com 8 anos de experiência na área de administração, trago comigo um background diversificado e uma incrível paixão por desafios inovadores.
+Tenho 28 anos e sou um profissional dinâmico e dedicado, com uma sólida formação em Administração e 8 anos de experiência na área. Minha trajetória profissional tomou um rumo empolgante quando, aos 26 anos, decidi realizar uma transição de carreira para o mundo da programação.
 
-Minha trajetória profissional tomou um rumo empolgante quando, aos 26 anos, decidi realizar uma transição de carreira para o mundo da programação. Inicialmente, mergulhei no universo de JavaScript, expandindo rapidamente meus conhecimentos para o framework React. Atualmente, estou aprofundando minha expertise em Kotlin, demonstrando uma notável capacidade de me adaptar a novas tecnologias com rapidez e eficiência.
+Inicialmente, mergulhei no universo de JavaScript e rapidamente expandi meus conhecimentos para o framework React. Atualmente, estou focado em aprofundar minha expertise em Java, com um forte interesse em desenvolvimento back-end. Essa mudança tem sido desafiadora, mas também incrivelmente gratificante, e tenho demonstrado uma notável capacidade de me adaptar a novas tecnologias com rapidez e eficiência.
 
 Além disso, possuo experiência freelancer como desenvolvedor web, especializado em serviços que abrangem desde WordPress até o desenvolvimento de front-end. Minha abordagem flexível e criativa permite a entrega de soluções personalizadas e de alta qualidade para meus clientes.
 

@@ -2,11 +2,13 @@
     <h1>Olá, meu nome é Leonardo, tudo bem?  👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
     <p> 
-Tenho 29 anos e sou um profissional dinâmico e dedicado, com uma sólida formação em Administração e 8 anos de experiência na área. Minha trajetória profissional tomou um rumo empolgante quando, aos 26 anos, decidi realizar uma transição de carreira para o mundo da programação.
+Tenho 29 anos e sou um profissional dinâmico, dedicado e movido por desafios. Possuo formação sólida em Administração e 8 anos de experiência na área operacional, onde desenvolve competências em gestão, liderança e resolução de problemas. Aos 26 anos, decidi dar um novo rumo à minha trajetória profissional e mergulhar de vez no mundo da tecnologia e programação.
 
-Inicialmente, mergulhei no universo de JavaScript e rapidamente expandi meus conhecimentos para o framework React. Atualmente, estou focado em aprofundar minha expertise em Java, com um forte interesse em desenvolvimento back-end. Essa mudança tem sido desafiadora, mas também incrivelmente gratificante, e tenho demonstrado uma notável capacidade de me adaptar a novas tecnologias com rapidez e eficiência.
+Minha jornada começou com JavaScript, linguagem que despertou minha curiosidade por criar soluções interativas e funcionais. Desde então, aprofundei meus conhecimentos no Spring, que me levaram às maravilhas do desenvolvimento Back-end com Java, e atualmente foco meus estudos em integrações com banco de dados MySQL e na construção de soluções robustas e escaláveis.
 
-Além disso, possuo experiência freelancer como desenvolvedor web, especializado em serviços que abrangem desde WordPress até o desenvolvimento de Back-end. Minha abordagem flexível e criativa permite a entrega de soluções personalizadas e de alta qualidade para meus clientes.
+Além disso, possuo experiência como freelancer, participando no desenvolvimento web com foco em soluções completas — desde o front-end até o back-end — utilizando tecnologias como HTML5, CSS3, JavaScript, Java, Spring e MySQL.
+
+Minha abordagem é focada em criatividade, eficiência e melhoria contínua, buscando sempre entregar projetos personalizados, de alta qualidade e que realmente façam a diferença para meus clientes.
 
 </div>
 

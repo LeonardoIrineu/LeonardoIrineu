@@ -2,11 +2,11 @@
     <h1>Olá, meu nome é Leonardo, tudo bem?  👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
     <p> 
-Tenho 28 anos e sou um profissional dinâmico e dedicado, com uma sólida formação em Administração e 8 anos de experiência na área. Minha trajetória profissional tomou um rumo empolgante quando, aos 26 anos, decidi realizar uma transição de carreira para o mundo da programação.
+Tenho 29 anos e sou um profissional dinâmico e dedicado, com uma sólida formação em Administração e 8 anos de experiência na área. Minha trajetória profissional tomou um rumo empolgante quando, aos 26 anos, decidi realizar uma transição de carreira para o mundo da programação.
 
 Inicialmente, mergulhei no universo de JavaScript e rapidamente expandi meus conhecimentos para o framework React. Atualmente, estou focado em aprofundar minha expertise em Java, com um forte interesse em desenvolvimento back-end. Essa mudança tem sido desafiadora, mas também incrivelmente gratificante, e tenho demonstrado uma notável capacidade de me adaptar a novas tecnologias com rapidez e eficiência.
 
-Além disso, possuo experiência freelancer como desenvolvedor web, especializado em serviços que abrangem desde WordPress até o desenvolvimento de front-end. Minha abordagem flexível e criativa permite a entrega de soluções personalizadas e de alta qualidade para meus clientes.
+Além disso, possuo experiência freelancer como desenvolvedor web, especializado em serviços que abrangem desde WordPress até o desenvolvimento de Back-end. Minha abordagem flexível e criativa permite a entrega de soluções personalizadas e de alta qualidade para meus clientes.
 
 </div>
 
@@ -18,19 +18,15 @@ Além disso, possuo experiência freelancer como desenvolvedor web, especializad
  <a href="https://www.linkedin.com/in/leonardo-izidoro-irineu-3b75a2257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<div align="center">
- <a href="https://github.com/LeonardoIrineu">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoIrineu&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIrineu&layout=compact&langs_count=7&theme=merko"/>
-</div>
-  
-<br>
-
 <div style="display: inline_block" align="center"><br>
- <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
 </div> 
 
  ##
